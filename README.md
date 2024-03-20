@@ -78,3 +78,6 @@
 * Why are these technologies appropriate for your solution?
 
   These technologies are scalable, accessible, and can be tailored to specific business needs, aligning with the goal of making AI universally beneficial.
+
+## References
+   This project uses resource from [Wikipedia](https://en.wikipedia.org/wiki/OpenAI#:~:text=It%20was%20founded%20by%20Ilya,initial%20Board%20of%20Directors%20members), [OpenAI](https://openai.com/), ChatGPT.
