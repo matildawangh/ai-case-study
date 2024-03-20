@@ -9,7 +9,8 @@
 
 * How did the idea for the company (or project) come about?
 
-OpenAI was founded with the mission to ensure that artificial general intelligence (AGI) benefits all of humanity. The founders were driven by the potential of AI to significantly impact society, and they wanted to guide the development of AI in a way that maximizes its positive effects while minimizing potential risks.
+  OpenAI was founded with the mission to ensure that artificial general intelligence (AGI) benefits all of humanity. The founders were driven by the potential of AI to significantly impact society, and they wanted to 
+  guide the development of AI in a way that maximizes its positive effects while minimizing potential risks.
 
 * How is the company funded? How much funding have they received?
 
