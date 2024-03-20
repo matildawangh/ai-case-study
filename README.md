@@ -6,6 +6,7 @@
 * When was the company incorporated? December 2015
 
 * Who are the founders of the company?
+
   It was founded by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk 
   serving as the initial Board of Directors members.
   
