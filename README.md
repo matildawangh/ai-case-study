@@ -17,8 +17,10 @@
 
 * How is the company funded? How much funding have they received?
 
-  OpenAI has transitioned from a non-profit to a "capped" profit entity, allowing it to raise capital. It has received significant investments from various partners, including a $1 billion commitment from Microsoft.
-
+  In December 2015, Sam Altman, Greg Brockman, Reid Hoffman, Jessica Livingston, Peter Thiel, Elon Musk, Amazon Web Services (AWS), Infosys, and YC Research announced the formation of OpenAI and pledged over $1 
+  billion to the venture. The actual collected total amount of contributions was only $130 million until 2019. According to an investigation led by TechCrunch, Musk was its largest donor while YC Research did not 
+  contribute anything at all. The organization stated it would "freely collaborate" with other institutions and researchers by making its patents and research open to the public.
+  
 ## Business Activities
 * What specific problem is the company or project trying to solve?
 
@@ -63,7 +65,7 @@
   OpenAI remains a leading innovator, especially with its commitment to ethical AI development and groundbreaking technologies like GPT-3 and DALL·E.
 
 ## Recommendations
-  If you were to advise the company, what products or services would you suggest they offer?
+* If you were to advise the company, what products or services would you suggest they offer?
 
   It could be beneficial for OpenAI to explore more personalized AI solutions for small and medium businesses, making AI tools more accessible to a broader audience.
 
