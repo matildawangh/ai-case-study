@@ -1,6 +1,6 @@
 # ai-case-study
 
-**## Overview and Origin**
+## **Overview and Origin**
 * Name of company: [OpenAI](https://openai.com/)
 
 * When was the company incorporated? December 2015
